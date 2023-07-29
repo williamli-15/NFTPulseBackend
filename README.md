@@ -2,6 +2,8 @@
 
 TiDB Future App Hackathon 2023
 
+Emily Lei, Griffin Li, Jacky Li, Lumi Xu
+
 ## NFT Pulse
 
 NFT Pulse is a web application that provides real-time insights and analytics for the dynamic NFT market. It offers a user-friendly interface for tracking NFT sales, token prices, and trending collections, empowering investors, collectors, and enthusiasts to make smart decisions in the fast-paced world of NFTs.
